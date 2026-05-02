@@ -8,7 +8,7 @@
 
 The source code for this project is not publicly available due to a **Non-Disclosure Agreement (NDA)** with Crisil.
 
-However, the project presentation and demo are linked below.
+However, the project presentation and demo are attached in the repo itself.
 
 \---
 
@@ -26,5 +26,5 @@ An NLP pipeline that automates the extraction and analysis of information from s
 
 \---
 
-## 
+## Thanks for viewing !
 
